@@ -12,7 +12,6 @@
         {"table_name": "Flechas", "table_items": [
             {"nombre": "Flecha", "ataque": "1/2"},
             {"nombre": "Flecha +1", "ataque": "2/4"},
-            {"nombre": "Flecha +2", "ataque": "6/6"}
-        ]}
+            {"nombre": "Flecha +2", "ataque": "6/6"}]}
     ]
 }
