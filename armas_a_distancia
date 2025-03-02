@@ -1,0 +1,7 @@
+{
+    "title": "Armas a Distancia",
+    "Armas a Distancia": [
+        {"nombre":  "Bala de Cañón", "ataque": "30/30", "clases permitidas": "Pirata."},
+        {"nombre":  "Cañón", "ataque": "5/5", "clases permitidas": "Pirata.", "skills necesarios": {"nombre": "Armas de proyectiles", "cantidad": 100}}
+    ]
+}
