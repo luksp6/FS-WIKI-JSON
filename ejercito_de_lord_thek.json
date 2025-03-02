@@ -1,12 +1,12 @@
 {
     "Ejército de Lord Thek": "Los fieles a Lord Thek son criminales que recorren el mundo derramando sangre sin importar a quién tienen enfrente. No tienen escrúpulos ni códigos, se caracterizan por su mal carácter y su maldad, sobre todo con los ciudadanos. A pesar de que no son fieles a nada, sí son fieles a su lord. Para enlistarte debés ir a la ciudad de Arghal, buscar a Lord Thek y con el comando /ENLISTAR y los requisitos necesarios podrás hacerlo.",
     "Jerarquias criminales": [
-        {"Acolito": "Nivel 25 + 50 ciudadanos matados + Misión \"Acólito\"."},
-        {"Jefe de tropas": "Nivel 30 + 100 ciudadanos matados + 5 puntos de quest + Misión \"Jefe de Tropas\"."},
-        {"Elite del mal": "Nivel 35 + 200 ciudadanos matados + 10 puntos de quest + Misión \"Elite del Mal\"."},
-        {"Heroe del mal": "Nivel 40 + 400 ciudadanos matados + 15 puntos de quest + Misión \"Héroe del Mal.\"."},
-        {"Guerrero infernal": "Nivel 45 + 600 ciudadanos matados + 20 puntos de quest + Misión \"Guerrero Infernal\"."},
-        {"Caballero de la Oscuridad": "Nivel 47 + 800 ciudadanos matados + 25 puntos quest + Misión \"Caballero de la Oscuridad\"."},
-        {"Devorador de Almas": "Nivel 50 + 1000 Ciudadanos + 30 puntos de Quest + Misión \"Devorador de Almas\"."}
+        {"Acolito": "Es necesario ser nivel 25 + 50 ciudadanos matados + Misión \"Acólito\"."},
+        {"Jefe de tropas": "Es necesario ser Acolito y nivel 30 + 100 ciudadanos matados + 5 puntos de quest + Misión \"Jefe de Tropas\"."},
+        {"Elite del mal": "Es necesario ser Jefe de tropas y nivel 35 + 200 ciudadanos matados + 10 puntos de quest + Misión \"Elite del Mal\"."},
+        {"Heroe del mal": "Es necesario ser Elite del mal y nivel 40 + 400 ciudadanos matados + 15 puntos de quest + Misión \"Héroe del Mal.\"."},
+        {"Guerrero infernal": "Es necesario ser Heroe del mal y nivel 45 + 600 ciudadanos matados + 20 puntos de quest + Misión \"Guerrero Infernal\"."},
+        {"Caballero de la Oscuridad": "Es necesario ser Guerrero infernal y nivel 47 + 800 ciudadanos matados + 25 puntos quest + Misión \"Caballero de la Oscuridad\"."},
+        {"Devorador de Almas": "Es necesario ser Devorador de Almas y nivel 50 + 1000 Ciudadanos + 30 puntos de Quest + Misión \"Devorador de Almas\"."}
     ]
 }
