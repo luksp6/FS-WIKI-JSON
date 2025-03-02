@@ -1,0 +1,12 @@
+{
+    "title": "Boveda",
+    "Boveda": "En cualquier banco al que vayamos, interactuando con el banquero podemos realizar varias acciones.",
+    "Acciones boveda": [
+        {"Abrir": "Debemos hacer doble click sobre el Banquero, o hacer un click y escribir /BOVEDA."},
+        {"Depositar oro": "Lo hacemos mediante el comando /depositar X, o eligiendo la opción \"Depositar\" y escribiendo el monto."},
+        {"Retirar oro": "Lo hacemos mediante el comando /retirar X, o eligiendo la opción \"Retirar\"."},
+        {"Balance oro:": "Vemos el oro que hay depositado en la boveda, para esto lo hacemos mediante el comando /balance."},
+        {"Transferir oro:": "Eligiendo la opción y escribiendo el nick (completo) de quien va a recibir ese oro y la cantidad. En el momento de transferir, no se podrá hacer por más de 5.000.000 monedas de oro."},
+        {"Drag and Drop:": "Ahora podremos mover los items, depositarlos y extraerlos con el click derecho del mouse, tal y como se muestra en el video, utilizando la tecla SHIFT podremos utilizar el total de los items seleccionados."}
+    ]
+}
