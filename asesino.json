@@ -2,15 +2,15 @@
     "title": "Asesino",
     "Asesino": "Una fuerte apuñalada es suficiente para que su enemigo caiga derrotado sin siquiera saber quien fue. Expertos de las dagas y amigos naturales de las sombras, estos oscuros seres buscan en sus golpes y sus ataques mágicos, la perfección pura. No admiten el fracaso. Los elfos oscuros son los más especializados en esta clase... siendo los únicos capaces de usar una daga forjada por el mismo demonio... la \"Daga Infernal\", que solamente puede ser realizada por los herreros más arriesgados y experimentados...",
     "Recompensas asesino": [
-        {"nivel recompensa": 18, "recompensas asesino": [
+        {"nivel recompensa": 18, "nombre y efecto": [
             {"Pociones de Vitalidad": "1000 pociones rojas que no caen al morir."},
             {"Petrificar": "Nos da un hechizo que paraliza solo a los NPCs."}
         ]},
-        {"nivel recompensa": 25, "recompensas": [
+        {"nivel recompensa": 25, "nombre y efecto": [
             {"Sombra de la vida": "Aumenta en 10 puntos la vida."},
             {"Sombra Mágica": "Aumenta en 30 puntos el mana."}
         ]},
-        {"nivel recompensa": 34, "recompensas": [
+        {"nivel recompensa": 34, "nombre y efecto": [
             {"Golpe a traicion": "Adquiere con un 80% de probabilidades de apuñalar al objetivo, si a este le acierta el golpe por la espalda."},
             {"Muerte lenta": "Cuando el asesino efectua una apuñalada, su victima perderá sangre a lo largo del tiempo, lo que le irá causando daño (20 a 40 puntos)"}
         ]}
@@ -36,7 +36,7 @@
                 {"nivel": 35, "vida": 307, "mana": 662},
                 {"nivel": 40, "vida": 350, "mana": 752},
                 {"nivel": 45, "vida": 392, "mana": 842}]},
-        "asesino Elfo": {
+        "asesino elfo": {
             "promedio por nivel": 8,
             "promedios": [
                 {"nivel": 13, "vida": 114},
@@ -45,7 +45,7 @@
                 {"nivel": 35, "vida": 290, "mana": 696},
                 {"nivel": 40, "vida": 330, "mana": 791},
                 {"nivel": 45, "vida": 370, "mana": 886}]},
-        "asesino Elfo oscuro": {
+        "asesino elfo oscuro": {
             "promedio por nivel": 7.5,
             "promedios": [
                 {"nivel": 13, "vida": 108},
@@ -54,7 +54,7 @@
                 {"nivel": 35, "vida": 273, "mana": 730},
                 {"nivel": 40, "vida": 311, "mana": 830},
                 {"nivel": 45, "vida": 348, "mana": 930}]},
-        "asesino Gnomo": {
+        "asesino gnomo": {
             "promedio por nivel": 7.5,
             "promedios": [
                 {"nivel": 13, "vida": 108},
