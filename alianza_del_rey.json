@@ -1,6 +1,6 @@
 {
     "Alianza del Rey": "Los fieles al Rey son ciudadanos que responden a los principios de lealtad, bondad y justicia. Oriundos de la ciudad de Banderbill, recorren el continente luchando contra los criminales desde tiempos inmemorables. Para enlistarte, deberás ir a la ciudad de Banderbill, al Gran Consejo y buscar al Rey. Con el comando /ENLISTAR y teniendo los requisitos podrás hacerlo.",
-    "Jerarquias": [
+    "Jerarquias ciudadanas": [
         {"Primera / Soldado Real": "Nivel 25 + 50 ciminales matados + Misión \"Soldado Real\""},
         {"Segunda / General Real": "Nivel 30 + 100 criminales matados + 5 puntos de quest + Misión \"General Real\""},
         {"Tercera / Teniente Real": "Nivel 35 + 200 criminales matados + 10 puntos de quest + Misión \"Teniente Real\""},
