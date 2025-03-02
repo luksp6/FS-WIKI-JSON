@@ -1,0 +1,13 @@
+{
+    "Casamiento": "En FúriusAO, las mujeres y los hombres pueden contraer matrimonio. Al casarse, en el nick de ambos aparecerá de quién son pareja.",
+    "Requisitos": [
+        "Tener una alianza cada uno",
+        "El hombre debe equipar una Ropa Elegante",
+        "La mujer debe equipar un Vestido de Novia",
+        "Se debe estar con un sacerdote"
+    ],
+    "Pedir casamiento": "Se debe utilizar el comando: \"/Casamiento nick\".",
+    "Aceptar casamiento": "Se debe utilizar el comando \"/Acepto nick\".",
+    "Divorcio": "Para divorciarse ambos deben estar online y se debe utilizar el comando \"/Divorcio nick\".",
+    "Transportarse a su pareja": "Para transportarse a la posición de su pareja (solo en zona segura) se debe utilizar el comando \"/IrPareja\"."
+}

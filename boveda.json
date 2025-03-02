@@ -1,5 +1,4 @@
 {
-    "title": "Boveda",
     "Boveda": "En cualquier banco al que vayamos, interactuando con el banquero podemos realizar varias acciones.",
     "Acciones boveda": [
         {"Abrir": "Debemos hacer doble click sobre el Banquero, o hacer un click y escribir /BOVEDA."},
