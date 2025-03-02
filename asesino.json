@@ -1,7 +1,7 @@
 {
     "title": "Asesino",
     "Asesino": "Una fuerte apuñalada es suficiente para que su enemigo caiga derrotado sin siquiera saber quien fue. Expertos de las dagas y amigos naturales de las sombras, estos oscuros seres buscan en sus golpes y sus ataques mágicos, la perfección pura. No admiten el fracaso. Los elfos oscuros son los más especializados en esta clase... siendo los únicos capaces de usar una daga forjada por el mismo demonio... la \"Daga Infernal\", que solamente puede ser realizada por los herreros más arriesgados y experimentados...",
-    "Recompensas": [
+    "Recompensas asesino": [
         {"nivel": 18, "recompensas": [
             {"nombre": "Pociones de Vitalidad", "efecto": "1000 pociones rojas que no caen al morir."},
             {"nombre": "Petrificar", "efecto": "Nos da un hechizo que paraliza solo a los NPCs."}
@@ -15,18 +15,18 @@
             {"nombre": "Muerte lenta", "efecto": "Cuando el asesino efectua una apuñalada, su victima perderá sangre a lo largo del tiempo, lo que le irá causando daño (20 a 40 puntos)"}
         ]}
     ],
-    "Hechizos especiales": [
+    "Hechizos especiales asesino": [
         {"nombre": "Sombra de poder", "efecto": "Aumenta la fuerza y agilidad del objetivo."},
         {"nombre": "Silencio de inocentes", "efecto": "Te vuelve invisible y te permite moverte sin que se escuchen tus pasos. Al atacar a un usuario el efecto se terminará."}
     ],
-    "Modificadores": {
+    "Modificadores asesino": {
         "evasion": 1.10,
         "probabilidad de pegar cuerpo a cuerpo": 0.95,
         "daño cuerpo a cuerpo": 0.85,
         "probabilidad de pegar con arco y flecha": 0.75,
         "daño con arco y flecha": 0.75
     },
-    "Promedios de vida y maná (sin contar recompensas de vida y maná)": {
+    "Promedios de vida y maná (sin contar recompensas de vida y maná) asesino": {
         "humano": {
             "promedio por nivel": 8.5,
             "promedios": [
