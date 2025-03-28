@@ -1,0 +1,29 @@
+{
+    "Clanes": "Los Clanes en las Tierras de Fúrius son de gran ayuda. Los integrantes de un clan son como una familia ya que se ayudan y cuidan entre sí. Siempre es útil saber que un compañero estará a nuestro lado para acompañarnos en muchas de las aventuras que atravesaremos. A su vez, los Clanes también tienen un nivel, el cual permite que el mismo crezca y pueden participar del sistema de conquista.",
+    "Requisitos para fundar un clan": [
+        "Ser Pirata.",
+        "Ser nivel 43",
+        "Tener la Gema de fundación en nuestro inventario.",
+        "Tener 10000000 monedas de oro.",
+        "Tener 100 puntos de liderazgo."
+    ],
+    "Fundar un clan": "Una vez que todos los requisitos esten completos solo basta ejecutar el comando /FUNDARCLAN y completar el formulario. Para fundar en una facción solo es necesario que el pirata sea de dicho bando. En caso de que dos clanes estén en guerra, sus integrantes pueden atacarse sin ningún inconveniente sin importar la facción a la cual pertenezcan, y sin peligro de ser expulsados (siempre y cuando la guerra de clanes esté aprobada por el Consejo de Banderbill o por el Concilio de Arghal). Un pesonaje puede salir de un clan mediante el comando /SALIRCLAN a excepción del líder, que no puede hacerlo bajo ningún punto de vista.",
+    "Gema de fundación": "El Acólito es el primer lacayo del Rey Ananke quien se encuentra en el castillo cuya entrada está en el mapa 265 (abajo de Nueva Esperanza). Al morir tira la gema de fundación. (Posee 10% de probabilidad de drop)",
+    "Gema de experiencia": "Para obtener la gema de experiencia se debe matar a la Gran Momia que se encuentra en la Pirámide. Para invocarla se deben posicionar los usuarios sobre las baldosas correspondientes. Al matarla y agarrar la gema, los usuarios serán llevados afuera de la pirámide. Ten cuidado ya que la momia invoca arañas que la defienden. La Gran Momia no puede ser invocada si los que pisan los cuadrados no son del mismo clan.",
+    "Niveles por clan": [
+        {"Nivel 1": {"Requisitos": "Gema de fundación + 10000000 monedas de oro.", "Recompensa": "Fundación, chat de clanes, uso del seguro de clanes. Maximo 5 miembros."}},
+        {"Nivel 2": {"Requisitos": "2 Gema de experiencia + 10000000 monedas de oro + 3500 experiencia de clan.", "Recompensa": "Pedir ayuda ( K ). Maximo 10 miembros."}},
+        {"Nivel 3": {"Requisitos": "3 Gema de experiencia + 10000000 monedas de oro + 4500 experiencia de clan.", "Recompensa": "Podremos ver en el mapa interactivo cuando un amigo pide ayuda. Maximo 15 miembros."}},
+        {"Nivel 4": {"Requisitos": "4 Gema de experiencia + 10000000 monedas de oro + 5500 experiencia de clan.", "Recompensa": "Cuando un miembro muere, se detalla donde muere y quien lo mató. Maximo 20 miembros."}},
+        {"Nivel 5": {"Requisitos": "5 Gema de experiencia + 10000000 monedas de oro + 6000 experiencia de clan.", "Recompensa": "Se puede habilitar o deshabilitar* una barra de vida debajo de los nombres de los integrantes del clan. Maximo 25 miembros."}}
+    ],
+    "Experiencia de clan": {
+        "Matar usuario con clan": "10 puntos de experiencia de clan",
+        "Matar una Medusa": "10 puntos de experiencia de clan",
+        "Matar un Yeti": "20 puntos de experiencia de clan",
+        "Matar un Engendro del demonio": "30 puntos de experiencia de clan",
+        "Matar un Acólito": "50 puntos de experiencia de clan"
+    },
+    "Cambio de lider": "El cambio de lider solo se podrá ejecutar UNA VEZ POR CLAN y se necesita tener PIN del FUNDADOR y que el nuevo líder se encuentre ONLINE.",
+    "Diamante": "Permite fundar clan siendo de cualquier clase, nivel 40. No hace falta ORO ni SKILLS."
+}
