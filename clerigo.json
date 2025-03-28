@@ -29,8 +29,8 @@
         "probabilidad de pegar con arco y flecha": 0.70,
         "daño con arco y flecha": 0.80
     },
-    "Promedios de vida y maná (sin contar recompensas de vida y maná) Bardo": {
-        "Bardo humano": {
+    "Promedios de vida y maná (sin contar recompensas de vida y maná) Clérigo": {
+        "Clérigo humano": {
             "promedio por nivel": 8.5,
             "promedios": [
                 {"nivel": 13, "vida": 120},
@@ -39,7 +39,7 @@
                 {"nivel": 35, "vida": 307, "mana": 1274},
                 {"nivel": 40, "vida": 350, "mana": 1454},
                 {"nivel": 45, "vida": 392, "mana": 1634}]},
-        "Bardo elfo": {
+        "Clérigo elfo": {
             "promedio por nivel": 8,
             "promedios": [
                 {"nivel": 13, "vida": 114},
@@ -48,7 +48,7 @@
                 {"nivel": 35, "vida": 290, "mana": 1342},
                 {"nivel": 40, "vida": 330, "mana": 1532},
                 {"nivel": 45, "vida": 370, "mana": 1722}]},
-        "Bardo elfo oscuro": {
+        "Clérigo elfo oscuro": {
             "promedio por nivel": 7.5,
             "promedios": [
                 {"nivel": 13, "vida": 108},
@@ -57,7 +57,7 @@
                 {"nivel": 35, "vida": 273, "mana": 1410},
                 {"nivel": 40, "vida": 311, "mana": 1610},
                 {"nivel": 45, "vida": 348, "mana": 1810}]},
-        "Bardo gnomo": {
+        "Clérigo gnomo": {
             "promedio por nivel": 7.5,
             "promedios": [
                 {"nivel": 13, "vida": 108},

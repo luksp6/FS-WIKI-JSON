@@ -1,0 +1,17 @@
+{
+    "Escudos": [
+        {"Escudo de tortuga": {"defensa": "1/1", "clases permitidas": "Todas menos Cazador, Arquero, Mago, Nigromante y Druida.", "skills necesarios": {"Defensa con escudos": 0}}},
+        {"Rodela": {"defensa": "1/2", "clases permitidas": "Asesino, Bardo, Druida.", "skills necesarios": {"Defensa con escudos": 20}}},
+        {"Escudo sigiloso": {"defensa": "1/3", "clases permitidas": "Asesino.", "skills necesarios": {"Defensa con escudos": 40}}},
+        {"Escudo de hierro": {"defensa": "1/2", "clases permitidas": "Paladin, Clerigo, Guerrero.", "skills necesarios": {"Defensa con escudos": 50}}},
+        {"Escudo dinal": {"defensa": "1/3", "clases permitidas": "Paladin, Bardo.", "skills necesarios": {"Defensa con escudos": 50}}},
+        {"Escudo thor": {"defensa": "1/4", "clases permitidas": "Paladin, Asesino.", "skills necesarios": {"Defensa con escudos": 50}}},
+        {"Escudo de plata": {"defensa": "3/5", "clases permitidas": "Paladin, Clerigo, Guerrero.", "skills necesarios": {"Defensa con escudos": 90}}},
+        {"Ojo de druida": {"defensa": "2/2", "clases permitidas": "Bardo.", "skills necesarios": {"Defensa con escudos": 70}}},
+        {"Rodela Compuesta": {"defensa": "1/3", "clases permitidas": "Druida, Bardo.", "skills necesarios": {"Defensa con escudos": 70}}},
+        {"Escudo sagrado": {"defensa": "4/6", "clases permitidas": "Clerigo, Guerrero.", "skills necesarios": {"Defensa con escudos": 90}}},
+        {"Escudo datek": {"defensa": "4/5", "clases permitidas": "Paladin, Guerrero.", "skills necesarios": {"Defensa con escudos": 97}}},
+        {"Escudo legendario": {"defensa": "4/6", "clases permitidas": "Paladin.", "skills necesarios": {"Defensa con escudos": 100}}},
+        {"Escudo Lethor": {"defensa": "5/7", "clases permitidas": "Paladin, Clerigo, Guerrero.", "skills necesarios": {"Defensa con escudos": 100}}}
+    ]
+}

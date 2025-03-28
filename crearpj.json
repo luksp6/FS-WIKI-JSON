@@ -1,0 +1,17 @@
+{
+    "Pantalla de Creación": "Al entrar en la pantalla de creación de personajes te aparecerá el siguiente formulario a rellenar.",
+    "Referencias": {
+        "Nombre del personaje": "Aquí es donde debes escribir el nombre de tu personaje. Usa tu imaginación, pero recuerda no contradecir las reglas.",
+        "Contraseña": "Recuerda colocar una clave que sea fácil de recordar, evita colocar claves como \"asd123\", \"qwerty\", etcétera, ya que podrías ser víctima de un robo de personaje. El Staff no se hace responsable ante esta situación.",
+        "Repetir contraseña": "Debes volver a colocar tu clave, esto es una medida de seguridad para confirmar que hayas escrito bien tu clave.",
+        "Email": "Este requisito es muy importante, colocando un email válido podrás recuperar tu personaje si has olvidado la clave, evita colocar emails como \"a@a.com\". El Staff no se hace responsable ante esta situación.",
+        "Repetir Email": "Debes volver a colocar tu email, esto es una medida de seguridad para confirmar que hayas escrito bien tu email.",
+        "Código del Personaje": "Este requisito es necesario para poder \"retar por personaje\" y para poder adquirir FAPoints, el código es intransferible y único, recomendamos anotarlo, se pedirá para realizar un canje de items.",
+        "Seleccione Género": "Aquí debemos elegir el género (hombre/mujer)",
+        "Seleccione Raza": "Aquí debemos elegir la raza, las razas en FúriusAO son 5.",
+        "Hogar": "Seleccionamos la ciudad en el que deseamos nacer.",
+        "Atributos": "Los atributos son lo que definirán las bonificaciones que recibirá tu personaje en cuanto a sus atributos y su clase. Por el momento estan automáticamente establecidos en el máximo 18 (Dieciocho). Luego, se sumarán o restarán las bonificaciones dependiendo de la raza.",
+        "Skills": "Cuentas con 10 Skillpoints libres para asignar al momento del nacimiento de tu personaje. ¡Úsalos con sabiduría!.",
+        "Siguiente": "Una vez completados los anteriores puntos, damos click en siguiente y el persoaje estará creado y podremos comenzar a jugar."
+    }
+}
