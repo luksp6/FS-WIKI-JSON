@@ -1,0 +1,20 @@
+{
+    "Armaduras": [
+        {"Armadura de cuero": {"defensa": "5/10", "clases permitidas": "Todas, excepto mago, nigromante y druida.", "skills necesarios": {"Tacticas de combate": 0}}},
+        {"Cota de mallas": {"defensa": "10/15",  "clases permitidas": "Paladín, Cazador, Guerrero, Asesino, Arquero, Clérigo.", "skills necesarios": {"Tacticas de combate": 30}}},
+        {"Armadura de las sombras": {"defensa": "5/15",  "clases permitidas": "Asesino.", "skills necesarios": {"Tacticas de combate": 60}}},
+        {"Armadura de placas": {"defensa": "15/25",  "clases permitidas": "Paladín, Guerrero, Clerigo.", "skills necesarios": {"Tacticas de combate": 63}}},
+        {"Armadura de cazador": {"defensa": "10/20",  "clases permitidas": "Arquero, Cazador.", "skills necesarios": {"Tacticas de combate": 63}}},
+        {"Armadura de dragon blanco": {"defensa": "27/35",  "clases permitidas": "Clerigo.", "skills necesarios": {"Tacticas de combate": 87}}},
+        {"Armadura de la ciénaga": {"defensa": "25/35",  "clases permitidas": "Paladín, Guerrero, Cazador.", "skills necesarios": {"Tacticas de combate": 80}}},
+        {"Armadura cerck": {"defensa": "20/30",  "clases permitidas": "Asesino.", "skills necesarios": {"Tacticas de combate": 87}}},
+        {"Armadura de las tinieblas": {"defensa": "25/35",  "clases permitidas": "Paladín, Guerrero.", "skills necesarios": {"Tacticas de combate": 87}}},
+        {"Armadura legendaria": {"defensa": "33/38",  "clases permitidas": "Paladín, Guerrero.", "skills necesarios": {"Tacticas de combate": 87}}},
+        {"Armadura de placas de gala": {"defensa": "25/35",  "clases permitidas": "Arquero, Cazador.", "skills necesarios": {"Tacticas de combate": 87}}},
+        {"Armadura de dragón": {"defensa": "45/50",  "clases permitidas": "Guerrero.", "skills necesarios": {"Tacticas de combate": 97}}},
+        {"Armadura titanium": {"defensa": "28/33",  "clases permitidas": "Asesino.", "skills necesarios": {"Tacticas de combate": 100}}},
+        {"Armadura tizoc": {"defensa": "28/43",  "clases permitidas": "Arquero.", "skills necesarios": {"Tacticas de combate": 100}}},
+        {"Armadura flamigera": {"defensa": "28/38",  "clases permitidas": "Cazador.", "skills necesarios": {"Tacticas de combate": 100}}},
+        {"Armadura Nordica": {"defensa": "30/40",  "clases permitidas": "Paladin, Guerrero.", "skills necesarios": {"Tacticas de combate": 100}}},
+        {"Armadura medranta)": {"defensa": "52/59",  "clases permitidas": "Guerrero.", "skills necesarios": {"Tacticas de combate": 100}}}]
+}

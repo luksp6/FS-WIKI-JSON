@@ -1,0 +1,66 @@
+{
+    "Cazador": "Tras las sombras, con arco en mano y flecha preparada. La cuerda tiesa, el proyectil apuntando a la cabeza; sabe que de dar en el blanco... no le quedará otra opción a su oponente más que huir o morir. Haciendo uso de los arcos y de la magia para aumentar su poder de ataque, los cazadores son una clase totalmente híbrida, capaces de usar el arco con una puntería exacta, o la magia con una habilidad increíble. Se dice por estas Tierras, que el guerrero más poderoso que existió en su momento, fue un cazador... muchos intentaron seguir sus pasos... pero su falta de habilidad los dejo en el fracaso. Es tanta su habilidad tanto con los arcos, como con la magia, que aprendieron un poderoso hechizo, Flecha inmovilizadora.",
+    "Recompensas Cazador": [
+        {"nivel recompensa": 18, "nombre y efecto": [
+            {"Pociones de Vitalidad": "1000 pociones rojas que no caen al morir."},
+            {"Petrificar": "Nos da un hechizo que paraliza solo a los NPCs."}
+        ]},
+        {"nivel recompensa": 25, "nombre y efecto": [
+            {"Fortaleza del Oso": "Aumenta en 10 puntos la vida."},
+            {"Fortaleza del Leviatán": "Aumenta en 50 puntos el mana."}
+        ]},
+        {"nivel recompensa": 34, "nombre y efecto": [
+            {"Tiro preciso": "Aumenta en 10% la puntería usando arcos."},
+            {"Tiro mortal": "Al pegar un golpe en la cabeza, la defensa del casco es ignorada."}
+        ]}
+    ],
+    "Hechizos especiales Cazador": [
+        {"Arco encantado": "Aumenta el golpe con arco."},
+        {"Flecha inmovilizadora": "Crea un efecto de inmovilizacion sobre tu arco, inmovilizandolo a tu contrincante en tu próximo ataque."}
+    ],
+    "Modificadores Cazador": {
+        "evasion": 0.95,
+        "probabilidad de pegar cuerpo a cuerpo": 0.75,
+        "daño cuerpo a cuerpo": 0.80,
+        "probabilidad de pegar con arco y flecha": 0.95,
+        "daño con arco y flecha": 0.95
+    },
+    "Promedios de vida y maná (sin contar recompensas de vida y maná) Cazador": {
+        "Cazador humano": {
+            "promedio por nivel": 9.5,
+            "promedios": [
+                {"nivel": 13, "vida": 132},
+                {"nivel": 25, "vida": 246, "mana": 482},
+                {"nivel": 30, "vida": 293, "mana": 572},
+                {"nivel": 35, "vida": 341, "mana": 662},
+                {"nivel": 40, "vida": 389, "mana": 752},
+                {"nivel": 45, "vida": 436, "mana": 842}]},
+        "Cazador elfo": {
+            "promedio por nivel": 9,
+            "promedios": [
+                {"nivel": 13, "vida": 126},
+                {"nivel": 25, "vida": 234, "mana": 506},
+                {"nivel": 30, "vida": 279, "mana": 601},
+                {"nivel": 35, "vida": 324, "mana": 696},
+                {"nivel": 40, "vida": 369, "mana": 791},
+                {"nivel": 45, "vida": 414, "mana": 886}]},
+        "Cazador elfo oscuro": {
+            "promedio por nivel": 8,
+            "promedios": [
+                {"nivel": 13, "vida": 108},
+                {"nivel": 25, "vida": 222, "mana": 530},
+                {"nivel": 30, "vida": 265, "mana": 630},
+                {"nivel": 35, "vida": 307, "mana": 730},
+                {"nivel": 40, "vida": 350, "mana": 830},
+                {"nivel": 45, "vida": 392, "mana": 930}]},
+        "Cazador gnomo": {
+            "promedio por nivel": 8.5,
+            "promedios": [
+                {"nivel": 13, "vida": 108},
+                {"nivel": 25, "vida": 222, "mana": 554},
+                {"nivel": 30, "vida": 265, "mana": 659},
+                {"nivel": 35, "vida": 307, "mana": 764},
+                {"nivel": 40, "vida": 350, "mana": 869},
+                {"nivel": 45, "vida": 392, "mana": 974}]}
+    }
+}

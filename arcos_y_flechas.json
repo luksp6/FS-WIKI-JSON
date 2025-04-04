@@ -1,0 +1,14 @@
+{
+    "Arcos": [
+        {"Arco simple": {"ataque": "1/5", "clases permitidas": "Todas menos hechiceros y naturalistas (Incluyendo sus subclases).", "skills necesarios": {"Armas de proyectiles": 0}}},
+        {"Arco simple reforzado": {"ataque": "2/6", "clases permitidas": "Todas, excepto mago, nigromante y druida.", "skills necesarios": {"Armas de proyectiles": 30}}},
+        {"Arco compuesto": {"ataque": "3/8", "clases permitidas": "Paladin, Asesino, Cazador, Arquero, Guerrero.", "skills necesarios": {"Armas de proyectiles": 60}}},
+        {"Arco de las tinieblas": {"ataque": "4/10", "clases permitidas": "Cazador (Elfos).", "skills necesarios": {"Armas de proyectiles": 70}}},
+        {"Arco de la marca": {"ataque": "8/11", "clases permitidas": "Cazador, Arquero (Humanos, Elfos y Bajos).", "skills necesarios": {"Armas de proyectiles": 90}}},
+        {"Arco largo engarzado": {"ataque": "10/12", "clases permitidas": "Cazador, Arquero (Elfos y humanos).", "skills necesarios": {"Armas de proyectiles": 90}}},
+        {"Arco Elfico": {"ataque": "11/13", "clases permitidas": "Arquero (Elfos).", "skills necesarios": {"Armas de proyectiles": 100}}}],
+    "Flechas": [
+        {"Flecha": {"ataque": "1/2"}},
+        {"Flecha +1": {"ataque": "2/4"}},
+        {"Flecha +2": {"ataque": "6/6"}}]
+}
