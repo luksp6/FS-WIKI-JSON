@@ -1,6 +1,0 @@
-{
-    "Armas a Distancia": [
-        {"Cañón": {"ataque": "5/5", "clases permitidas": "Pirata.", "skills necesarios": {"Armas de proyectiles": 100}}},
-        {"Bala de Cañón": {"ataque": "30/30", "clases permitidas": "Pirata."}}
-    ]
-}

@@ -1,9 +1,0 @@
-{
-    "Capture the Flag": "En este evento se arman equipos faccionarios y su objetivo es capturar la bandera del enemigo y llevarla a su base.",
-    "Consideraciones": [
-        "Los participantes tienen que agarrar la bandera y llevarla a la base, para que la bandera sea recuperada deberán matar al usuario que agarró la misma.",
-        "La bandera quedará en el lugar donde el usuario que la tenía murió, si otro usuario del mismo bando agarra la bandera puede seguir llevandola a su base, pero si un usuario que está defendiendo la bandera la agarra, ésta volverá a la base de donde salió.",
-        "Cada vez que un usuario muere será transportado a la sala de espera respectiva de su facción y podrá volver a la pelea cuando quiera.",
-        "Al finalizar la ronda las bases se invertirán."
-    ]
-}
